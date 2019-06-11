@@ -1,11 +1,11 @@
-package com.dmc.hello;
+package com.dmc.vo;
 
-public class Hello {
+public class HelloVo {
 
 	public Integer id;
 	public String name;
 
-	public Hello(Integer id, String name) {
+	public HelloVo(Integer id, String name) {
 		super();
 		this.id = id;
 		this.name = name;
